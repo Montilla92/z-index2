@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    }
+
+    #d1 {
+     animation-delay: .2s;   
+    }
+    
+    #d2{
+        animation-delay: .5s;   
+    }
+    
+    #d3{
+        animation-delay: .7s;   
+    }
+    
+    #d4{
+        animation-delay: 1s;   
+    }
+    #d5{
+        animation-delay: 1.2s;   
+    }
+    #d6{
+        animation-delay: 1.5s;
+    }
+    #d7{
+        animation-delay: 1.7s;
+    }
+    #d8{
+        animation-delay: 2s;
+    }
+    #d9{
+        animation-delay: 2.2s;
+    }
